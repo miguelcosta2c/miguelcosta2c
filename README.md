@@ -16,6 +16,8 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,9 +33,10 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) (Learning)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) (Learning)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) (Learning)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
 
@@ -41,7 +44,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 
 ```javascript
 const miguel = {
-    code: ["JavaScript", "Python", "HTML", "CSS", "SQL"],
+    code: ["TypeScript", "JavaScript", "Python", "HTML", "CSS", "SQL"],
     technologies: {
         frontEnd: {
             js: ["React"],
@@ -67,19 +70,16 @@ I specialize in integrating **Artificial Intelligence** into web applications, c
 - 💬 Natural Language Processing applications
 - 👁️ Computer Vision solutions
 - 🤖 AI-powered automation
+- 🤖 LLM Orchestration: Developing advanced AI workflows and agents using LangChain.
 - 📊 Predictive analytics
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelcosta2c&show_icons=true&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&icon_color=7209B7&text_color=D3D3D3&border_color=7209B7)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcosta2c&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&text_color=D3D3D3&border_color=7209B7)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelcosta2c&theme=material-palenight&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=7209B7)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelcosta2c&show_icons=true&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&icon_color=7209B7&text_color=D3D3D3&border_color=7209B7" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcosta2c&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&text_color=D3D3D3&border_color=7209B7" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcosta2c&theme=material-palenight&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=7209B7" alt="GitHub Streak" />
+</p>
 
 ## 🌟 What I Do
 
@@ -94,8 +94,8 @@ I specialize in integrating **Artificial Intelligence** into web applications, c
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelcosta2c)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelcosta2c)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelcosta2c) (not created yet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelcosmecosta@gmail.com)
 
 </div>
 
