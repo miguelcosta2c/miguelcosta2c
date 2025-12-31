@@ -33,9 +33,9 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) (Learning)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) (Learning)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) (Learning)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
@@ -76,8 +76,8 @@ I specialize in integrating **Artificial Intelligence** into web applications, c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelcosta2c&show_icons=true&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&icon_color=7209B7&text_color=D3D3D3&border_color=7209B7" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcosta2c&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&text_color=D3D3D3&border_color=7209B7" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=miguelcosta2c&show_icons=true&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&icon_color=7209B7&text_color=D3D3D3&border_color=7209B7" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miguelcosta2c&layout=compact&theme=material-palenight&bg_color=0d1117&title_color=9D4EDD&text_color=D3D3D3&border_color=7209B7" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcosta2c&theme=material-palenight&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&border=7209B7" alt="GitHub Streak" />
 </p>
 
