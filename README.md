@@ -15,22 +15,13 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 <div align="center">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwindcss,nextjs,html,css,typescript" />
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-7209B7?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,fastapi,nestjs,python,docker,git,github,githubactions" />
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 
 ### AI
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -45,14 +36,13 @@ const miguel = {
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind"]
         },
         backEnd: {
             python: ["Django", "FastAPI"],
-            js: ["Node.js", "Express"]
+            js: ["Node.js", "NestJS"]
         },
         databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
-        ai: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
     },
     architecture: ["REST APIs", "Microservices", "SPA"],
     currentFocus: "AI Integration in Web Applications"
@@ -67,7 +57,7 @@ I specialize in integrating **Artificial Intelligence** into web applications, c
 - 💬 Natural Language Processing applications
 - 👁️ Computer Vision solutions
 - 🤖 AI-powered automation
-- 🤖 LLM Orchestration: Developing advanced AI workflows and agents using LangChain.
+- 🤖 LLM Orchestration: Developing advanced AI workflows and agents using LangChain and LangGraph.
 - 📊 Predictive analytics
 
 ## 📊 GitHub Stats
@@ -89,11 +79,12 @@ I specialize in integrating **Artificial Intelligence** into web applications, c
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelcosta2c)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelcosta2c) (not created yet)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelcosmecosta@gmail.com)
-
+  <a href="mailto:miguelcosmecosta@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/mgs__cc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ---
