@@ -1,10 +1,4 @@
-# 👋 Hi, I'm Miguel, a 15-year-old programmer!
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Specialist;Building+the+Future+with+Code)
-  
-</div>
+# 👋 Hi, I'm Miguel!
 
 ## 🚀 About Me
 
