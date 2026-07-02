@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
 <img src="https://skillicons.dev/icons?i=react,vite,tailwindcss,nextjs,html,css,typescript" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=django,fastapi,nestjs,python,docker,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,python,docker,git,github,githubactions" />
 
 ### Database
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
@@ -34,7 +34,7 @@ const miguel = {
         },
         backEnd: {
             python: ["Django", "FastAPI"],
-            js: ["Node.js", "NestJS"]
+            js: ["Node.js"]
         },
         databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
     },
